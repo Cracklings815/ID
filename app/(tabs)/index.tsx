@@ -1,3 +1,4 @@
+// Ctu ID
 import React from 'react';
 import { View, Text, Image, StyleSheet } from 'react-native';
 import { LinearGradient } from 'expo-linear-gradient';
@@ -202,3 +203,11 @@ const styles = StyleSheet.create({
     marginBottom: 30,
   },
 });
+
+
+
+
+
+
+
+
